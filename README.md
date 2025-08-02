@@ -26,4 +26,4 @@ Local Storage	                       SQLite(optional for queueing)
 Programming Lang	                   Python
 
 -- OUTPUT SCREENSHOTS -- 
-     link : 
+     link : https://output-screenshot-of-this-project.netlify.app/
